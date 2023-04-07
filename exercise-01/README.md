@@ -5,7 +5,7 @@ A program that prompts for your name and then prints a greeting using
 that name.
 
 ### Example Output
-```bash
+```plaintext
 What is your name? Brian
 Hello, Brian, nice to meet you!
 ```
